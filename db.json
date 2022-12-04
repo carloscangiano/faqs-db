@@ -1,5 +1,5 @@
 { 
-    "email": "Juan.Carlos.Cangiano@ibm.com",
+    
     "listRolMenu": [
         {
             "id": 4,
@@ -19,7 +19,5 @@
             "path": "request-access-category",
             "rol": "USER"
         }
-    ],
-    "profile": "USER",
-    "rol": "USER"
+    ]
 }
