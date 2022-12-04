@@ -1,6 +1,4 @@
 { 
-    "faqs": [
-    {
     "email": "Juan.Carlos.Cangiano@ibm.com",
     "listRolMenu": [
         {
@@ -24,6 +22,4 @@
     ],
     "profile": "USER",
     "rol": "USER"
-}
-]
 }
