@@ -8,12 +8,6 @@
          "rol":"USER"
       },
       {
-         "id":5,
-         "name":"User With Access to Category",
-         "path":"user-access-category",
-         "rol":"USER"
-      },
-      {
          "id":21,
          "name":"Request Access to Category",
          "path":"request-access-category",
