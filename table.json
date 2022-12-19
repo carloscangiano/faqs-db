@@ -1,4 +1,4 @@
-{
+[{
       "access": false,
       "category": "X48",
       "cnum": "028293613",
@@ -9,4 +9,4 @@
       "id": 8,
       "requester_mail": "dicandil@ar.ibm.com",
       "status": "Pending"
-  }
+  }}
