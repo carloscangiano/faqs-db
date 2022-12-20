@@ -15,8 +15,8 @@
       },
       {
          "id":21,
-         "name":"Request Access to Category",
-         "path":"request-access-category",
+         "name":"Provide Access to Category",
+         "path":"provide-access-category",
          "rol":"USER"
       }
    ],
