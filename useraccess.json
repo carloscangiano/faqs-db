@@ -1,18 +1,18 @@
 { 
   "response": [
     {
-      id: '1',
-      countryCode: '631',
-      companyCode: '05',
-      category: 'AGT',
-      employeeNumber: '067586'
+      "id": "1",
+      "countryCode": "631",
+      "companyCode": "05",
+      "category": "AGT",
+      "employeeNumber": "067586"
     },
     {
-      id: '2',
-      countryCode: '632',
-      companyCode: '05',
-      category: 'TYU',
-      employeeNumber: '027443'
+      "id": "2",
+      "countryCode": "631",
+      "companyCode": "06",
+      "category": "GJE",
+      "employeeNumber": "992086"
     }
   ]
 }
