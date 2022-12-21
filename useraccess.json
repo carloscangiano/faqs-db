@@ -1,5 +1,4 @@
-{ 
-  "response": [
+[
     {
       "id": "1",
       "countryCode": "631",
@@ -14,5 +13,4 @@
       "category": "GJE",
       "employeeNumber": "992086"
     }
-  ]
-}
+]
