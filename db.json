@@ -2,24 +2,30 @@
    "email":"Juan.Carlos.Cangiano@ibm.com",
    "listRolMenu":[
       {
-         "id":4,
+         "id":1,
          "name":"Access Pending to Category",
          "path":"access-pending-category",
-         "rol":"USER"
+         "rol":"ADMIN"
       },
       {
-         "id":21,
-         "name":"User With Access to Category",
-         "path":"user-access-category",
-         "rol":"USER"
-      },
-      {
-         "id":21,
+         "id":3,
          "name":"Provide Access to Category",
          "path":"provide-access-category",
-         "rol":"USER"
+         "rol":"ADMIN"
+      },
+      {
+         "id":26,
+         "name":"View All Access by Category",
+         "path":"view-all-access-by-category",
+         "rol":"ADMIN"
+      },
+      {
+         "id":2,
+         "name":"View All Access by Email",
+         "path":"view-all-access-by-email",
+         "rol":"ADMIN"
       }
    ],
-   "profile":"USER",
-   "rol":"USER"
+   "profile":"ADMIN",
+   "rol":"ADMIN"
 }
